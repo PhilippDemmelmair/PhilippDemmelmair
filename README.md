@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Philipp. 
+I'm Philipp. I'm currently in a webdev bootcamp to improve my skills and get a certificate.
 
 <!--
 **PhilippDemmelmair/PhilippDemmelmair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
