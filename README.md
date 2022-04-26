@@ -13,6 +13,7 @@ I'm Philipp. I'm a webdev from germany, currently learning webdev in a bootcamp.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=PhilippDemmelmair&show_icons=true&count_private=true&theme=gruvbox" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username={PhilippDemmelmair}&theme=blue-green" />
+[![Philipp's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippDemmelmair&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PhilippDemmelmair/PhilippDemmelmair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
