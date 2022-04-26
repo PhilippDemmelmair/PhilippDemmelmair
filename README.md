@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Philipp. I'm currently in a webdev bootcamp to improve my skills and get a certificate.
+I'm Philipp. I'm a webdev from germany, currently learning webdev in a bootcamp. I'm looking forward to get involved with some cool projects and learn new every day. 
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <!--
 **PhilippDemmelmair/PhilippDemmelmair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
