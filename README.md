@@ -2,6 +2,8 @@
 
 I'm Philipp. I'm currently in a webdev bootcamp to improve my skills and get a certificate.
 
+I was in homeoffice even before corona started. In the last 5 years, I learned the hard way, how difficult it is to keep a sleeppattern in homeoffice. So how did my working hours change? At the end, it depends if there is a project I have to finish. In this case, I work when I'm up and sleep when I have time or my energy is at below zero. The next task is to get back to normal again. 
+
 <!--
 **PhilippDemmelmair/PhilippDemmelmair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
