@@ -2,7 +2,7 @@
 
 I'm Philipp. I'm a webdev from germany, currently learning webdev in a bootcamp. I'm looking forward to get involved with some cool projects and learn new every day. 
 
-![Generic badge](https://img.shields.io/badge/OpenToWork-Hire me!-14ae6.svg)(https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/OpenToWork-Hire me!-14ae6.svg)(https://shields.io/)]
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafi0101&show_icons=true&count_private=true&theme=gruvbox" />
