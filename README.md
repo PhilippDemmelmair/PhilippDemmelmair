@@ -2,6 +2,7 @@
 
 I'm Philipp. I'm a webdev from germany, currently learning webdev in a bootcamp. I'm looking forward to get involved with some cool projects and learn new every day. 
 
+[![Generic badge](https://img.shields.io/badge/<OpenToWork>-<Hire me!>-<COLOR>.svg)](https://shields.io/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <!--
