@@ -3,6 +3,11 @@
 I'm Philipp. I'm a webdev from germany, currently learning webdev in a bootcamp. I'm looking forward to get involved with some cool projects and learn new every day. 
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=PhilippDemmelmair&show_icons=true&count_private=true&theme=gruvbox" />
 
 <!--
